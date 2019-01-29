@@ -5,7 +5,7 @@
   "main": "dist/group-table.js",
   "author": "coolwine.kim@gmail.com",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",

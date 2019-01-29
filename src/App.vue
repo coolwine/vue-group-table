@@ -11,7 +11,6 @@
 <script>
 import testData from '../static/test';
 import GroupTable from './components/GroupTable';
-console.log(testData);
 
 export default {
     name: 'App',
