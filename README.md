@@ -1,6 +1,8 @@
 # vue-group-table
 
-> group-table
+> 컬럼별 Group 기능 제공
+
+![alt text](static/screen.png)
 
 ## Usage
 
