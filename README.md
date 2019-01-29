@@ -20,6 +20,15 @@ Vue.use(BootstrapVue);
 
 # How to use
 ```html
+// import 
+import GroupTable from 'vue-group-table';
+
+// add
+components: {
+    GroupTable
+},
+
+// html
 <group-table :items="items">
     <!-- 확장하고 싶은 컬럼 slot -->
     <template slot="age" slot-scope="row">
