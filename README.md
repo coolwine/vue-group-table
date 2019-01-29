@@ -9,6 +9,13 @@
 ``` bash
 npm install vue-group-table
 yarn add vue-group-table
+
+
+# main.js
+import BootstrapVue from 'bootstrap-vue'
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
+Vue.use(BootstrapVue);
 ```
 
 # How to use
