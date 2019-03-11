@@ -1,6 +1,6 @@
 {
   "name": "vue-group-table",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "vue-group-table",
   "main": "dist/group-table.js",
   "author": "coolwine.kim@gmail.com",
